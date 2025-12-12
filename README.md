@@ -6,7 +6,7 @@ This repository contains the MATLAB source code for the paper:
 
 \*\*"Enhancing ISAC Performance in Low-Altitude Economy with Fluid Antennas"\*\*
 
-
+accepted at the 17th International Conference on Wireless Communications and Signal Processing (WCSP 2025), Chongqing, October 23-25, 2025
 
 \*\*Authors:\*\*Yiping Zuo, Yupeng Nie, Hengyi Liu, Lingfeng Zuo, Chen Dai
 
@@ -77,6 +77,7 @@ Key simulation parameters (defined in `main.m`):
 If you find this code useful for your research, please cite our paper: 
 
 ( the information will be released when the paper is published)
+
 
 
 
