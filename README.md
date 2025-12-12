@@ -1,4 +1,4 @@
-\ Enhancing ISAC Performance in Low-Altitude Economy with Fluid Antennas
+\* Enhancing ISAC Performance in Low-Altitude Economy with Fluid Antennas
 
 
 
@@ -77,5 +77,6 @@ Key simulation parameters (defined in `main.m`):
 If you find this code useful for your research, please cite our paper: 
 
 ( the information will be released when the paper is published)
+
 
 
