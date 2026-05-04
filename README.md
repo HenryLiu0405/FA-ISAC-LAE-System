@@ -11,6 +11,10 @@ accepted at the 17th International Conference on Wireless Communications and Sig
 \*\*Authors:\*\*Yiping Zuo, Yupeng Nie, Hengyi Liu, Lingfeng Zuo, Chen Dai
 
 
+\*\*"Fluid Antenna-aided ISAC Systems for Low-Altitude Economy Networks"\*\*
+
+accepted at IEEE Journal of Selected Topics in Signal Processing (JSTSP)
+\*\*Authors:\*\*Yiping Zuo, Yupeng Nie, Weicong Chen, Chen Dai, Weibei Fan, Jun Zhang
 
 \## 📄 Abstract
 
@@ -76,7 +80,13 @@ Key simulation parameters (defined in `main.m`):
 
 If you find this code useful for your research, please cite our paper: 
 
-( the information will be released when the paper is published)
+Y. Zuo, Y. Nie, H. Liu, L. Zuo and C. Dai, "Enhancing ISAC Performance in Low-Altitude Economy with Fluid Antennas," 2025 Seventeenth International Conference on Wireless Communications and Signal Processing (WCSP), Chongqing, China, 2025, pp. 1-6, doi: 10.1109/WCSP68525.2025.1010111. keywords: {Wireless communication;Fluids;Array signal processing;Simulation;Transmitting antennas;Signal processing algorithms;Games;Integrated sensing and communication;Antennas;Convergence;Fluid antenna;sensing;communication;LAE},
+
+Y. Zuo et al., "Fluid Antenna-aided ISAC Systems for Low-Altitude Economy Networks," in IEEE Journal of Selected Topics in Signal Processing, doi: 10.1109/JSTSP.2026.3671173.
+keywords: {Integrated sensing and communication;Antennas;Autonomous aerial vehicles;Array signal processing;Optimization;Resource management;Numerical models;Vehicle dynamics;Reconfigurable intelligent surfaces;Iterative methods;Fluid antenna;sensing;communication;LAE},
+
+
+
 
 
 
